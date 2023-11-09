@@ -1,7 +1,7 @@
 
-# CV Generator
+# Resume Builder
 
-CV Generator web application using Php and Bootstrap.
+It is an application that simplifies the task of creating a resume for individuals, built using PHP and Bootstrap
 
 
 
